@@ -44,3 +44,25 @@ dotnet run --project src/eShop.Blazor
 
 
 ```
+
+🔜 Next Logical Steps (Optional)
+
+Add domain models to eShop.Core
+
+Add Redis + EF Core to eShop.Infrastructure
+
+Implement cache-aside in eShop.Services
+
+Build shopping UI in Blazor
+
+Add README.md with architecture diagram
+
+If you want, next I can:
+
+Scaffold Redis DI config
+
+Create sample ProductService cache-aside
+
+Help you choose Blazor Server vs Auto
+
+Write a README.md for this repo
